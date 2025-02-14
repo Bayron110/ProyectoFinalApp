@@ -310,7 +310,7 @@ export const styles = StyleSheet.create({
         borderBottomWidth: 1,
         borderStyle: "solid",
         padding: 1,
-        backgroundColor:COLOR_TRANSPARENT_ESP,
+        backgroundColor:"#050201",
         alignItems:"center",
         borderRadius:10,
         width:width*0.8
@@ -382,7 +382,7 @@ export const styles = StyleSheet.create({
 
 
     buttonAddCartModal: {
-        backgroundColor: "#2C003E",
+        backgroundColor: "#D8BFD8",
         marginTop: 15,
         alignItems: "center",
         justifyContent: "center",
@@ -464,7 +464,7 @@ export const styles = StyleSheet.create({
     },
 
     buttonComprarModalCar: {
-        backgroundColor: "#16071E",
+        backgroundColor: "#4B0082",
         marginTop: 10,
         alignItems: "center",
         justifyContent: "center",

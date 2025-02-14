@@ -92,7 +92,6 @@ export const StackNavigator = () => {
                     title: 'Productos',
                     headerTitleStyle: styles.titulosVentanas,
                     headerTitleAlign: "center",
-                    headerShown:false
                 }}
                 component={ProductosScreen} />
         </Stack.Navigator>
