@@ -382,7 +382,7 @@ export const styles = StyleSheet.create({
 
 
     buttonAddCartModal: {
-        backgroundColor: "#D8BFD8",
+        backgroundColor: "#4B0082",
         marginTop: 15,
         alignItems: "center",
         justifyContent: "center",
